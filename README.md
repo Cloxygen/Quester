@@ -1,6 +1,6 @@
 # Quester
 OSbot questing script.
-Completes These Quests:
+Completes these quests:
 Cooks Assistant,
 Restless Ghost,
 Romeo and Juilet
